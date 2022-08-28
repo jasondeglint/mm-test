@@ -1,7 +1,29 @@
 # If you want to link only specific pages in your header, add the path to the
 # pages in order as they should show up.
+#main:
+#  - title: "Blog"
+#    url: /
+#  - title: "Bio"
+#    url: /bio/
+#  - title: "Projects"
+#    url: /projects/
+#  - title: "Press"
+#    url: /press/
+#  - title: "Publications"
+#    url: /publications/
+#  - title: "Archives"
+#    url: /archives/
+
 main:
-  - title: "About"
-    url: /about/
-  - title: "Archives"
-    url: /archives/
+  - title: "Blog"
+    url: /blog/
+  - title: "Bio"
+    url: /bio/
+  - title: "Speaking"
+    url: /speaking/
+  - title: "Projects"
+    url: /projects/
+  - title: "Press"
+    url: /press/
+  - title: "Publications"
+    url: /publications/
