@@ -27,9 +27,9 @@ markdown: kramdown
 remote_theme: yous/whiteglass
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
 
 include:
   - _pages
@@ -85,10 +85,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
