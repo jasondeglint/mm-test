@@ -3,5 +3,7 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Bio"
+    url: /bio/
   - title: "Archives"
     url: /archives/
