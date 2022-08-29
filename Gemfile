@@ -11,6 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-archives"
   gem "webrick"
+  gem "jekyll-scholar"
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jemoji"
