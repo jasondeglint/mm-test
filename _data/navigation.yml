@@ -3,3 +3,7 @@ main:
     url: /blog/
   - title: "Bio"
     url: /bio/
+  - title: "Speaking"
+    url: /speaking/
+  - title: "Press"
+    url: /press/
